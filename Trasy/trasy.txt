@@ -1,0 +1,16 @@
+6
+Trasy/trasa6.txt
+Trasy/trasa6.png
+Trasy/trasa3.txt
+Trasy/trasa3.png
+Trasy/trasa1.txt
+Trasy/trasa1.png
+Trasy/trasa8.txt
+Trasy/trasa8.png
+Trasy/trasa16.txt
+Trasy/trasa16.png
+Trasy/trasa32.txt
+Trasy/trasa32.png
+2
+Samochody/Lamborghini.png
+Samochody/Porsche.png
